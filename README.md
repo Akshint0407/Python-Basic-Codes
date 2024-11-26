@@ -29,10 +29,10 @@ This repository is a collection of simple Python scripts designed to help new pr
    ```bash
    python script_name.py
 
-🙌 Contributions
-Contributions are welcome! If you want to add more beginner-friendly scripts or suggest improvements, feel free to fork the repository and open a pull request.
+## 🙌 Contributions
+- Contributions are welcome! If you want to add more beginner-friendly scripts or suggest improvements, feel free to fork the repository and open a pull request.
 
-📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## 📝 License
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
 Happy Learning! 😊
