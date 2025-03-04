@@ -24,15 +24,15 @@ This repository is a collection of simple Python scripts designed to help new pr
 ## 🔧 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/beginner-python-codes.git
-2. Navigate to the folder and run the scripts using Python:
+   git clone https://github.com/Akshint0407/beginner-python-codes.git
+2. Navigate to the folder and run the scripts using Python(put the name of the python file instead of script_name):
    ```bash
-   python script_name.py
+   python script_name.py  
 
 ## 🙌 Contributions
 - Contributions are welcome! If you want to add more beginner-friendly scripts or suggest improvements, feel free to fork the repository and open a pull request.
 
 ## 📝 License
-- This project is licensed under the MIT License. See the LICENSE(LICENSE) file for details.
+- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Happy Learning! 😊
