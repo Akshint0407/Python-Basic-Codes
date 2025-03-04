@@ -33,6 +33,6 @@ This repository is a collection of simple Python scripts designed to help new pr
 - Contributions are welcome! If you want to add more beginner-friendly scripts or suggest improvements, feel free to fork the repository and open a pull request.
 
 ## 📝 License
-- This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the LICENSE(LICENSE) file for details.
 
 Happy Learning! 😊
